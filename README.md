@@ -2,6 +2,6 @@
 
 I'm a `full-stack developer`, proficient in the use of JavaScript-based technologies and passionate about learning new tools that allow me to keep building digital experiences.
 
-You can check out my work on my [portfolio website](https://patriciotames.com).
+You can check out my work on my <a href="http://patriciotames.com/" target="_blank">portfolio website</a>.
 
 ## Languages and Tools
